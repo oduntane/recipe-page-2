@@ -223,7 +223,8 @@
     }
 
     hr {
-        border-color: var(--stone-150);
+        border-top: 1px solid var(--stone-150);
+        width: 100%;
     }
 }
 
