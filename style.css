@@ -264,6 +264,7 @@
 
     }
     .card {
+        max-block-size: 106.25rem;
         max-inline-size: 46rem;
         margin: 0;
     }
