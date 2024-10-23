@@ -233,7 +233,6 @@
         .container {
             display: flex;
             justify-items: center;
-
         }
 
         .card {
@@ -256,8 +255,16 @@
 
 
 @media (min-width: 768px) {
+    .container {
+        block-size: 122.25rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
     .card {
         max-inline-size: 46rem;
-
+        margin: 0;
     }
 }
