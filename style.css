@@ -258,5 +258,6 @@
 @media (min-width: 768px) {
     .card {
         max-inline-size: 46rem;
+
     }
 }
